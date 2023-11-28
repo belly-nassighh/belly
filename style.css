@@ -1,5 +1,5 @@
-.paragrafo {color: rgb(203, 103, 233)}
-.titulo {
+.paragrafo {text-align: center;color: rgb(203, 103, 233)}
+.titulo {text-align: center;
     background-color: rgb(226, 152, 255);
         color: rgb(255, 255, 255);
             padding: 24px 0;
